@@ -175,8 +175,6 @@ Estos son algunos de los jugadores más importantes de la historia del club. Los
 | Alfredo Di Stéfano  | Delantero   | 308   | 396      |
 
 <div align="center">
-  <img src="img/camiseta.svg" alt="Camiseta blanca con el 7" width="120">
-  <br>
   <sub>El <b>7</b>, el dorsal más mítico del Madrid (Juanito, Butragueño, Raúl, Cristiano...)</sub>
 </div>
 
