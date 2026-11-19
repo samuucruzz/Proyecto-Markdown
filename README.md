@@ -6,9 +6,6 @@
   <h1>⚽ Real Madrid Club de Fútbol 🤍</h1>
   <p><i>Trabajo de Markdown sobre mi equipo favorito</i></p>
   <p><b>Autor:</b> Samuel Cruz López</p>
-  <img src="https://img.shields.io/badge/Fundado-1902-1f3c88" alt="Fundado en 1902">
-  <img src="https://img.shields.io/badge/Champions-15-c9a227" alt="15 Champions">
-  <img src="https://img.shields.io/badge/Hecho%20con-Markdown-black?logo=markdown" alt="Hecho con Markdown">
 </div>
 
 ---
