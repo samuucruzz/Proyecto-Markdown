@@ -1,5 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="200" height="200" viewBox="0 0 200 200">
-  <path d="M60 20 L85 30 Q100 40 115 30 L140 20 L185 55 L165 85 L145 72 L145 185 L55 185 L55 72 L35 85 L15 55 Z" fill="#ffffff" stroke="#1f3c88" stroke-width="5" stroke-linejoin="round"/>
-  <path d="M85 30 Q100 50 115 30" fill="none" stroke="#c9a227" stroke-width="5"/>
-  <text x="100" y="130" font-family="Arial" font-size="40" font-weight="bold" text-anchor="middle" fill="#1f3c88">7</text>
-</svg>
