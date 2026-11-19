@@ -34,7 +34,7 @@ En este documento voy a hablar del **Real Madrid C.F.**, el club de fútbol con 
 
 El objetivo de este trabajo es practicar los elementos de *Markdown* que hemos visto en clase.\
 Por eso hay tablas, listas, fórmulas, diagramas y alguna que otra cosa más.\
-~~Al principio iba a hacerlo sobre el Barça~~ 😅 pero al final no.
+~~Al principio iba a hacerlo sobre el AC Milan~~ pero al final no.
 
 > [!NOTE]
 > Los datos de este documento están actualizados a **noviembre de 2026** y se han sacado de la web oficial del club y de Wikipedia.
