@@ -355,6 +355,6 @@ Para guardar el archivo en el editor se pulsa <kbd>Ctrl</kbd> + <kbd>S</kbd>.
 ---
 
 <div align="center">
-  <p>Hecho con 🤍 por <b>Samuel Cruz López</b></p>
+  <p>Hecho por <b>Samuel Cruz López</b></p>
   <p><b>¡Hala Madrid!</b> ⚽</p>
 </div>
