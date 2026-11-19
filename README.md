@@ -335,7 +335,7 @@ Lista de cosas que tenía que hacer para este trabajo:
 - [x] Añadir fórmulas en LaTeX
 - [x] Hacer los diagramas con Mermaid
 - [ ] Ir a ver un partido al Bernabéu 🎟️
-- [ ] Subirlo a GitHub
+- [x] Subirlo a GitHub
 
 Para guardar el archivo en el editor se pulsa <kbd>Ctrl</kbd> + <kbd>S</kbd>.
 
